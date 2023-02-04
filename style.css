@@ -1,0 +1,50 @@
+.c{
+    color: blueviolet;
+}
+.d{
+    box-shadow: 5px 5px 5px 5px;
+}
+.b{
+    display: inline-block;
+    margin: 10px;
+    width: 40%;
+    padding-right: 20px;
+    margin:50px;
+    
+}
+.e{
+    width: 300px;
+    margin-left: 80px;
+
+}
+.a{
+    background-image: url(image/header-bg.png);
+}
+.f{
+    background-image: url(image/biography-bg.png);
+}
+.g{
+    display: inline-block;
+    margin: 10px;
+    width: 40%;
+    padding-right: 20px;
+    margin:50px;
+    
+}
+.h{
+    width: 300px;
+    margin-left: 80px; 
+}
+.i{
+    background-image: url(image/latest-work-bg.png);
+}
+.j{
+    display: inline-block;
+    width: 40%;
+    height: auto;
+    box-shadow: 5px 5px 5px 5px;
+    margin: 50px;
+}
+.j h1{text-align: center;}
+.j h4{text-align: center;}
+.j p{text-align: justify;}
